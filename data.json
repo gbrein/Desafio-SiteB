@@ -1,0 +1,31 @@
+[
+     {
+        "nome": "Pablo Escobar",
+        "endereco": "Rua Colombia 54",
+        "cpf": "35466998854",
+        "email": "pablo.escobar@colombia.com.br",
+        "telefone" : "11947888884",
+        "dominios" : "www.colombianow.com"
+    }, {
+        "nome": "Jose Guimaraes",
+        "endereco": "Rua Alface, 22",
+        "cpf": "38965489454",
+        "email": "jose@guimaraes.com.br",
+        "telefone": "11947888799",
+        "dominios": "www.zeguimaraes.com.br"
+    }, {
+        "nome": "Rachel Soares",
+        "endereco": "Rua dos Maracatins, 23",
+        "cpf": "78987965549",
+        "email": "rsoares12@gmail.com",
+        "telefone": "11947548554",
+        "dominios": "www.rsoares.com.br"
+    }, {
+        "nome": "Rogerio Mesclado",
+        "endereco": "Rua Ibianopolis, 400",
+        "cpf": "98654125879",
+        "email": "rogermesc20@gmail.com",
+        "telefone": "11947884569",
+        "dominios": "www.rogeriomesc.com.br"
+    }
+]
