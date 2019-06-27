@@ -4,8 +4,7 @@ let dataBase = require('../data.json');
 const app = express();
 let bodyParser = require('body-parser');
 const fs = require('fs');
-const file = '../data.json'
- 
+const getData = require('../getData')
 
 var jsonParser = bodyParser.json()
 app.use(bodyParser.urlencoded({extended: true}));
@@ -17,8 +16,7 @@ router.get('/', function (req, res, next) {
 });
 
 router.get('/get', (request, response) => {
-    var content = fs.readFileSync(file)
-    let c = (content);
+    response.send(getData());
 });
 
 router.post('/post', jsonParser, (request, response) => {
@@ -36,6 +34,7 @@ router.post('/post', jsonParser, (request, response) => {
             throw err;
         console.log('The file has been saved!');
     });
+    response.sendStatus(200);
 })
 
 module.exports = router;

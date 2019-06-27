@@ -1,7 +1,7 @@
 [
     {
         "nome": "Pablo Escobar",
-        "endereco": "Rua Colombia 54",
+        "endereco": "Rua Colombia, 54",
         "cpf": "35466998854",
         "email": "pablo.escobar@colombia.com.br",
         "telefone": "11947888884",
@@ -15,7 +15,7 @@
         "dominios": "www.zeguimaraes.com.br"
     }, {
         "nome": "Rachel Soares",
-        "endereco": "Rua dos Maracatins, 23",
+        "endereco": "Rua dos Maracatins,23",
         "cpf": "78987965549",
         "email": "rsoares12@gmail.com",
         "telefone": "11947548554",
@@ -27,33 +27,5 @@
         "email": "rogermesc20@gmail.com",
         "telefone": "11947884569",
         "dominios": "www.rogeriomesc.com.br"
-    }, {
-        "nome": "Guilherme Golabek Brein",
-        "endereco": "Rua Três Rios, 95 apto.42, Bom Retiro",
-        "cpf": "37932198879",
-        "email": "gbrein@gmail.com",
-        "telefone": "11998645572",
-        "dominios": "saffas"
-    }, {
-        "nome": "Guilherme Golabek Brein1",
-        "endereco": "Rua Três Rios, 95 apto.42, Bom Retiro",
-        "cpf": "37932198879",
-        "email": "gbrein@gmail.com",
-        "telefone": "11998645572",
-        "dominios": "saffas"
-    }, {
-        "nome": "Guilherme Golabek Brein12",
-        "endereco": "Rua Três Rios, 95 apto.42, Bom Retiro",
-        "cpf": "37932198879",
-        "email": "gbrein@gmail.com",
-        "telefone": "11998645572",
-        "dominios": "saffas"
-    }, {
-        "nome": "Guilherme Golabek Brein123",
-        "endereco": "Rua Três Rios, 95 apto.42, Bom Retiro",
-        "cpf": "37932198879",
-        "email": "gbrein@gmail.com",
-        "telefone": "11998645572",
-        "dominios": "saffas"
-    }
+    }, 
 ]
