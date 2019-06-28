@@ -16,8 +16,9 @@ To run the project:
 
 ## Prerequisites
 You will need all the following elements installed:
-- npm
+- Npm
 - Node.js
+- Jasmin
 
 ## Technologies used:
 - HTML 5
@@ -25,11 +26,20 @@ You will need all the following elements installed:
 - Bootstrap 
 - nodeJS
 - React
+- Jasmin
+- API
+- JSON
 
 ## How it works:
 1. The home page is the form
 2. Fill the form to add a new order
 3. Also you can list all orders on "Lista Dominios"
+
+## Jasmin Tests
+
+- Must have the application running
+- type on CMD: npm run test-init
+- type: jasmin
 
 ## Authors
 - Guilherme Golabek Brein
