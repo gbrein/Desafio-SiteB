@@ -18,7 +18,7 @@ To run the project:
 You will need all the following elements installed:
 - Npm
 - Node.js
-- Jasmin
+- Jasmine
 
 ## Technologies used:
 - HTML 5
@@ -26,7 +26,7 @@ You will need all the following elements installed:
 - Bootstrap 
 - nodeJS
 - React
-- Jasmin
+- Jasmine
 - API
 - JSON
 
@@ -39,7 +39,7 @@ You will need all the following elements installed:
 
 - Must have the application running
 - type on CMD: npm run test-init
-- type: jasmin
+- type: jasmine
 
 ## Authors
 - Guilherme Golabek Brein
