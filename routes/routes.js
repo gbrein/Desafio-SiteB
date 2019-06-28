@@ -11,12 +11,12 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 
 /* GET home page. */
-router.get('/', function (req, res, next) {
-    res.render('index', {title: 'Express'});
+router.get('/', function (request, response, next) {
+    response.status(200).render('index', {title: 'Express'});
 });
 
 router.get('/get', (request, response) => {
-    response.send(getData());
+    response.status(200).send(getData());
 });
 
 router.post('/post', jsonParser, (request, response) => {
